@@ -1,6 +1,6 @@
 # Kelompok 1 :
-- |Rayssa Ravelia  | 5025211219|
-- |Dian Dabukke    | 5025211080|
+- Rayssa Ravelia  | 5025211219 |
+- Dian Dabukke    | 5025211080 |
 
 # CNN-Political-News-Scraper-and-Preprocessing
 
