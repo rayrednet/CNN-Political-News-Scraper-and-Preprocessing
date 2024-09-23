@@ -1,3 +1,7 @@
+# Kelompok 1 :
+- Rayssa Ravelia 5025211219
+- Dian Dabukke   5025211080
+
 # CNN-Political-News-Scraper-and-Preprocessing
 
 This project involves web scraping political news articles from CNN using 20 specific keywords. The scraped data is then preprocessed and explored through exploratory data analysis (EDA).
