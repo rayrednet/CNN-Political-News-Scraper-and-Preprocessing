@@ -1,0 +1,7 @@
+selenium==4.10.0
+pandas==2.0.3
+numpy==1.24.2
+webdriver-manager==4.0.0
+matplotlib==3.7.1  # For visualizations in EDA
+beautifulsoup4==4.12.0  # In case you need to do HTML parsing in future
+python-dateutil==2.8.2  # Helps with advanced date parsing

@@ -66,24 +66,21 @@ pip install -r requirements.txt
 ## Usage
 1. To start scraping, run the `scraper.py` script:
    ```bash
-   python scraper.py
+   python scraper.ipynb
    ```
 
 2. The scraped data will be saved as a CSV file in the output folder.
 
-3. To perform data preprocessing and EDA, run the `eda_preprocessing.py` script:
-   ```bash
-   python eda_preprocessing.py
-   ```
+3. To perform data preprocessing and EDA, run the `eda.ipynb` and 'preprocessing.ipynb' script
 
 ## Project Structure
 ```
 ├── data/
-│   ├── scraped_cnn_news_100_pages.csv  # Scraped data
-├── eda_preprocessing.py                # EDA and preprocessing script
-├── scraper.py                          # Web scraping script
-├── README.md                           # Project documentation
-└── requirements.txt                    # Required Python packages
+│   ├── scraped_cnn_news_100_pages_expanded.csv  # Scraped data
+├── eda_preprocessing.ipynb                      # EDA and preprocessing script
+├── scraper.ipynb                                # Web scraping script
+├── README.md                                    # Project documentation
+└── requirements.txt                             # Required Python packages
 ```
 
 ## Future Work
