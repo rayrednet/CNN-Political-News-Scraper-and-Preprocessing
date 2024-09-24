@@ -1,6 +1,10 @@
-# Kelompok 1 :
-- Rayssa Ravelia  | 5025211219 |
-- Dian Dabukke     | 5025211080 |
+# Group Identity
+**Group Number: 1**
+| **Group Member**     | **NRP**      |
+|----------------------|--------------|
+| Rayssa Ravelia       | 5025211219   |
+| Dian Dabukke         | 5025211080   |
+
 
 # CNN-Political-News-Scraper-and-Preprocessing
 
